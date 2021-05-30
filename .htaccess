@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^oranges.html$ apples.html
+
+#Alternate default index page
+DirectoryIndex index.php

@@ -1,0 +1,63 @@
+body{
+  margin: 0px;
+}
+.topnav{
+  background-color: black;
+  overflow:hidden;
+  color: white;
+  font-size: 17px;
+  padding: 14px 16px;
+}
+.topnav a{
+  float:right;
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover{
+  background-color: green;
+  color: white;
+}
+
+a {
+    color:white;
+    padding:0px 20px;
+    text-decoration: none;
+    float: right;
+}
+a.update {
+  color: black;
+}
+a:hover{
+    color:blue;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+th{
+  text-align: center;
+
+    border: 1px solid black;
+}
+td{
+  text-align: center;
+
+    border: 1px solid black;
+}
+#deletetable{
+  margin-top: 40px;
+}
